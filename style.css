@@ -68,6 +68,7 @@ a {
     font-weight: bold;
     border-radius: 8px;
     border: none;
+    cursor: pointer;
 }
 
 #img-four {
@@ -187,4 +188,5 @@ li p {
     border-radius: 8px;
     border: solid 2px #f9faf8;
     margin-left: 130px;
+    cursor: pointer;
 }
